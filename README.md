@@ -1,2 +1,2 @@
-# novetus-server-site
-A webpage for NOVETUS Servers
+# My Website
+My personal website
